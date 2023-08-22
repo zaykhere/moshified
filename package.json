@@ -1,0 +1,25 @@
+{
+  "name": "moshify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parcel": "node_modules/.bin/parcel index.html",
+    "build": "node_modules/.bin/parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaykhere/moshified.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaykhere/moshified/issues"
+  },
+  "homepage": "https://github.com/zaykhere/moshified#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
